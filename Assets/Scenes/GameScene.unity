@@ -7739,7 +7739,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1627370752
 RectTransform:
   m_ObjectHideFlags: 0
@@ -9703,7 +9703,7 @@ MonoBehaviour:
   musicButton: {fileID: 1806636605}
   closeButton: {fileID: 626286208}
   moveUpButton: {fileID: 567365970}
-  moveUDownButton: {fileID: 557146855}
+  moveDownButton: {fileID: 557146855}
   moveLeftButton: {fileID: 782205127}
   moveRightButton: {fileID: 1926947928}
   interactButton: {fileID: 376143340}
@@ -9718,6 +9718,7 @@ MonoBehaviour:
   interactText: {fileID: 1984756281}
   interactAlternateText: {fileID: 859515425}
   pauseText: {fileID: 332331187}
+  pressToRebindKeyTransform: {fileID: 1627370752}
 --- !u!1 &1926947926
 GameObject:
   m_ObjectHideFlags: 0
